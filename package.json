@@ -1,0 +1,33 @@
+{
+  "name": "first-npm-package-webonise",
+  "version": "2.0.0",
+  "description": "This is the very first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajyadav-webonise/npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "first",
+    "node",
+    "module",
+    "package",
+    "manager",
+    "to",
+    "publish",
+    "the",
+    "package",
+    "publicly"
+  ],
+  "author": "Pankaj Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pankajyadav-webonise/npm-package/issues"
+  },
+  "homepage": "https://github.com/pankajyadav-webonise/npm-package#readme"
+}
